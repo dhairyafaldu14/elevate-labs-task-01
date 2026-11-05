@@ -61,8 +61,8 @@ Applied two feature scaling techniques to numerical features (`Age`, `Fare`, `Si
 ```text
 Task-1-Data-Cleaning-Preprocessing/
 │
-├── Task_1_Data_Cleaning.ipynb
-├── Titanic-Dataset.csv
-├── Titanic_Cleaned_Dataset.csv
 ├── README.md
-└── Task_1_Screenshots.pdf
+├── Task_1_Data_Cleaning.ipynb
+├── Task_1_Screenshots.pdf
+├── Titanic-Dataset.csv
+└── Titanic_Cleaned_Dataset.csv
